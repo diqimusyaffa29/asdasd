@@ -1,4 +1,4 @@
-Feature: Conduit Read Article Functionality
+Feature: Conduit Open Article Maker Functionality
 
 Scenario: Replace settings with Valid Credentials
 Given User is on the login page
